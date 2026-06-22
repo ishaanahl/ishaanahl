@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ishaan
 
-<!--
-**ishaanahl/ishaanahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Undergrad @ NSUT Delhi · Class of 2029
 
-Here are some ideas to get you started:
+I'm a CS student interested in building things with **Python** and **C++**. Currently sharpening my DSA fundamentals and exploring AI/ML. When I'm not coding, I'm either at a piano or on the dance floor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Currently
+- 🔨 Building my first projects
+- 📚 Learning DSA systematically
