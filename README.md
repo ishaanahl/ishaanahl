@@ -2,7 +2,7 @@
 
 CSE Undergrad @ NSUT Delhi · Class of 2029
 
-I'm a CS student interested in building things with **Python** and **C++**. Currently sharpening my DSA fundamentals and exploring AI/ML. When I'm not coding, I'm either at a piano or on the dance floor.
+I'm a CS student interested in building things with **Python** and **C++**. Currently sharpening my DSA fundamentals and exploring AI/ML.
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
